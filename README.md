@@ -6,8 +6,6 @@ options for envelope, paper, writing utencil, ect. that you want and the company
 
 Hand for the logo taken from clipart-library.com.
 
-Clickable checkmark code taken from https://www.geeksforgeeks.org/html/how-to-create-an-html-checkbox-with-a-clickable-label/.
-
 Used https://www.w3schools.com/tags/tag_col.asp to help understand tags and to use their online html editor to preview changes before putting them into VScode.
 
 Credit also to Joseph Racca and Eljay Jimenez, for working with me for the team project and helping me to learn HTML.
